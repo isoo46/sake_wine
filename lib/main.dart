@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_login/flutter_login.dart';
 
-
-// testa
 void main() {
   runApp(const MyApp());
 }
